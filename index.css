@@ -1,0 +1,6 @@
+body{background-color:rgb(205,180,219)} 
+.container{display:flex; justify-content:space-around; gap:10px; list-style-type:none; font-weight:bold; padding:0px}
+a{text-decoration:none}
+.recep{background-color:rgb(76,201,240); text-align:center; padding:10px; border:2px solid rgb(70,117,153); border-radius:10px}
+
+h1{text-align:center}
