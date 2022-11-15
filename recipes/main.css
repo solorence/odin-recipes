@@ -1,4 +1,4 @@
-body{background-color:rgb(205,180,219)}
+body{background-color:rgb(205,180,219); padding:10px}
 
 img{display:block; width:300px; height:auto; border-radius:10px; margin:5px auto;}
 h1{text-align:center}
